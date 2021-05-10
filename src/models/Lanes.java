@@ -1,6 +1,9 @@
+package models;
+
 public class Lanes {
 
-    Car car;
+    private Car car;
+
     public Car getCar() {
         return car;
     }
