@@ -4,7 +4,6 @@ public class Driver {
 
     private String name;
     private int wins = 0;
-    private boolean isPlayer;
 
     public Driver(String name) {
         this.name = name;

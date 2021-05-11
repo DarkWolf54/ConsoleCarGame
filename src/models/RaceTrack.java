@@ -5,8 +5,8 @@ import java.util.List;
 
 public class RaceTrack {
 
-    private Double trackLength;
-    private int numberOfLanes;
+    private Double trackLength = 0.0d;
+    private int numberOfLanes = 0;
     private List<Lanes> lanesArray;
 
 
